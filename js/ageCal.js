@@ -9,7 +9,7 @@ var week = 52*leftAge;
 var month = 12*leftAge;
 
 
-document.getElementById("output").innerHTML= "Days: "+day+"<br>Weeks: "+ week+"<br>Months: "+month+"<br>left to reach 90 years old";
+document.getElementById("output").innerHTML= "Days: "+day+"<br>Weeks: "+ week+"<br>Months: "+month;
 
 
 }
